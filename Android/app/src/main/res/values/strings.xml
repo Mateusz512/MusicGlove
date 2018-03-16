@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicGlove</string>
+    <string name="sample_MAC_address">98:D3:34:90:A9:09</string>
+    <string name="sample_name">HC-06</string>
+    <string name="unknown_device"><![CDATA[<unknown device>]]></string>
+    <string name="unknown_mac_address"><![CDATA[<unknown MAC address>]]></string>
+    <string name="search">Szukaj</string>
+    <string name="bluetooth_not_supported">To urządzenie nie posiada modułu Bluetooth. Aplikacja nie może działać poprawnie.</string>
+    <string name="send">WYSLIJ</string>
+</resources>
